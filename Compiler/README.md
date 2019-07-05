@@ -3,6 +3,7 @@
 This project is a recursive descent parser that uses a LL(1) grammar.
 
 Program ::== Block $
+
 Block ::== { StatementList }
 StatementList ::== Statement StatementList
               ::== ε

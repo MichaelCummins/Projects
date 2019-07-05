@@ -45,12 +45,21 @@ CharList ::== char CharList
          ::== ε
          
 type ::== int | string | boolean
+
 char ::== a | b | c ... z
+
 space ::== the space character
+
 digit ::== 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+
 boolop ::== == | !=
+
 boolval ::== false | true
+
 intop ::== + 
+
 Curly braces denote new scope.
+
 = is assignment.
+
 == is equality

@@ -1,0 +1,2752 @@
+fileFormatVersion: 2
+guid: 896b5b5dd10ac4342a41ca7949a3d1fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2425378182611908991
+    second: Testing out sprites for fun 2_0
+  - first:
+      213: -2604318753691786209
+    second: Testing out sprites for fun 2_1
+  - first:
+      213: -3333928108064501490
+    second: Testing out sprites for fun 2_2
+  - first:
+      213: 1891827783388134306
+    second: Testing out sprites for fun 2_3
+  - first:
+      213: -6546186422508045081
+    second: Testing out sprites for fun 2_4
+  - first:
+      213: -4203194597615852105
+    second: Testing out sprites for fun 2_5
+  - first:
+      213: 8402438982539742057
+    second: Testing out sprites for fun 2_6
+  - first:
+      213: 1567889795268103900
+    second: Testing out sprites for fun 2_7
+  - first:
+      213: 70065500603116189
+    second: Testing out sprites for fun 2_8
+  - first:
+      213: -4265756768135493954
+    second: Testing out sprites for fun 2_9
+  - first:
+      213: -7180581997061517942
+    second: Testing out sprites for fun 2_10
+  - first:
+      213: 7439680350858648403
+    second: Testing out sprites for fun 2_11
+  - first:
+      213: 9134317179764532561
+    second: Testing out sprites for fun 2_12
+  - first:
+      213: -5828597425489279668
+    second: Testing out sprites for fun 2_13
+  - first:
+      213: 4094387674078389813
+    second: Testing out sprites for fun 2_14
+  - first:
+      213: -3065919450654184235
+    second: Testing out sprites for fun 2_15
+  - first:
+      213: 3048245794154690725
+    second: Testing out sprites for fun 2_16
+  - first:
+      213: -2924509374778963995
+    second: Testing out sprites for fun 2_0
+  - first:
+      213: 3745380564086459657
+    second: Testing out sprites for fun 2_1
+  - first:
+      213: -144897347987267457
+    second: Testing out sprites for fun 2_2
+  - first:
+      213: 6153563920240389074
+    second: Testing out sprites for fun 2_3
+  - first:
+      213: 1883506402775587734
+    second: Testing out sprites for fun 2_4
+  - first:
+      213: -8325338328789345862
+    second: Testing out sprites for fun 2_5
+  - first:
+      213: 6587222315950872656
+    second: Testing out sprites for fun 2_6
+  - first:
+      213: -8840581101644725320
+    second: Testing out sprites for fun 2_7
+  - first:
+      213: -666626875834922280
+    second: Testing out sprites for fun 2_8
+  - first:
+      213: -4618128090502027101
+    second: Testing out sprites for fun 2_9
+  - first:
+      213: -684789987843505596
+    second: Testing out sprites for fun 2_10
+  - first:
+      213: 736555170951199619
+    second: Testing out sprites for fun 2_11
+  - first:
+      213: 7132443831140897989
+    second: Testing out sprites for fun 2_12
+  - first:
+      213: 8881737345364573005
+    second: Testing out sprites for fun 2_13
+  - first:
+      213: 509162000107816010
+    second: Testing out sprites for fun 2_14
+  - first:
+      213: 7168024648506158404
+    second: Testing out sprites for fun 2_15
+  - first:
+      213: -6718504146083957684
+    second: Testing out sprites for fun 2_16
+  - first:
+      213: 4846967432630500973
+    second: Testing out sprites for fun 2_17
+  - first:
+      213: -8748487334252168699
+    second: Testing out sprites for fun 2_18
+  - first:
+      213: -4777713259912695519
+    second: Testing out sprites for fun 2_19
+  - first:
+      213: -1921029559472169515
+    second: Testing out sprites for fun 2_20
+  - first:
+      213: -2040075328556985371
+    second: Testing out sprites for fun 2_21
+  - first:
+      213: 3314420634121985244
+    second: Testing out sprites for fun 2_22
+  - first:
+      213: 7236209088995163895
+    second: Testing out sprites for fun 2_23
+  - first:
+      213: 5663806274326241911
+    second: Testing out sprites for fun 2_24
+  - first:
+      213: -5601707381399812816
+    second: Testing out sprites for fun 2_25
+  - first:
+      213: -1150778675699985751
+    second: Testing out sprites for fun 2_26
+  - first:
+      213: 1661342527015767066
+    second: Testing out sprites for fun 2_27
+  - first:
+      213: -106127021438185967
+    second: Testing out sprites for fun 2_28
+  - first:
+      213: -2661896247204487442
+    second: Testing out sprites for fun 2_29
+  - first:
+      213: -3828673167202681929
+    second: Testing out sprites for fun 2_30
+  - first:
+      213: 4052830101727145957
+    second: Testing out sprites for fun 2_31
+  - first:
+      213: -433270079384946305
+    second: Testing out sprites for fun 2_32
+  - first:
+      213: 6378064676968701077
+    second: Testing out sprites for fun 2_33
+  - first:
+      213: 7220518060271655965
+    second: Testing out sprites for fun 2_34
+  - first:
+      213: 469239260729863178
+    second: Testing out sprites for fun 2_35
+  - first:
+      213: 8694339543404568814
+    second: Testing out sprites for fun 2_36
+  - first:
+      213: 7515537623989803775
+    second: Testing out sprites for fun 2_37
+  - first:
+      213: 8121659068795090849
+    second: Testing out sprites for fun 2_38
+  - first:
+      213: -6328317887899344483
+    second: Testing out sprites for fun 2_39
+  - first:
+      213: -3167589637963946779
+    second: Testing out sprites for fun 2_40
+  - first:
+      213: 6755479449572714974
+    second: Testing out sprites for fun 2_41
+  - first:
+      213: -9207086275282508607
+    second: Testing out sprites for fun 2_42
+  - first:
+      213: 6161829763960661620
+    second: Testing out sprites for fun 2_43
+  - first:
+      213: -3120786154439291392
+    second: Testing out sprites for fun 2_44
+  - first:
+      213: -2332099798192604850
+    second: Testing out sprites for fun 2_45
+  - first:
+      213: 6103318723456972308
+    second: Testing out sprites for fun 2_46
+  - first:
+      213: -3489201621863534681
+    second: Testing out sprites for fun 2_47
+  - first:
+      213: 6724027502519454692
+    second: Testing out sprites for fun 2_48
+  - first:
+      213: 2820845892321047220
+    second: Testing out sprites for fun 2_49
+  - first:
+      213: -8047656712252945520
+    second: Testing out sprites for fun 2_50
+  - first:
+      213: 7379217084401868095
+    second: Testing out sprites for fun 2_51
+  - first:
+      213: -9082661558189417837
+    second: Testing out sprites for fun 2_52
+  - first:
+      213: 55217710328569616
+    second: Testing out sprites for fun 2_53
+  - first:
+      213: 6603734531593240724
+    second: Testing out sprites for fun 2_54
+  - first:
+      213: 7034011159985359179
+    second: Testing out sprites for fun 2_55
+  - first:
+      213: -6716091926003472297
+    second: Testing out sprites for fun 2_56
+  - first:
+      213: 376801670995250902
+    second: Testing out sprites for fun 2_57
+  - first:
+      213: -4333693798656220816
+    second: Testing out sprites for fun 2_58
+  - first:
+      213: -265941323542358355
+    second: Testing out sprites for fun 2_59
+  - first:
+      213: -602463649275217144
+    second: Testing out sprites for fun 2_60
+  - first:
+      213: 8057950313888955840
+    second: Testing out sprites for fun 2_61
+  - first:
+      213: 6628240654123445532
+    second: Testing out sprites for fun 2_62
+  - first:
+      213: 1192857134140077682
+    second: Testing out sprites for fun 2_63
+  - first:
+      213: 4028396467766926121
+    second: Testing out sprites for fun 2_64
+  - first:
+      213: 461324776340333294
+    second: Testing out sprites for fun 2_65
+  - first:
+      213: 8534541165238078708
+    second: Testing out sprites for fun 2_66
+  - first:
+      213: 7913783552614870567
+    second: Testing out sprites for fun 2_67
+  - first:
+      213: -3843181994389996479
+    second: Testing out sprites for fun 2_68
+  - first:
+      213: 893788002194321133
+    second: Testing out sprites for fun 2_69
+  - first:
+      213: 187192457510094185
+    second: Testing out sprites for fun 2_70
+  - first:
+      213: 7994266709378652997
+    second: Testing out sprites for fun 2_71
+  - first:
+      213: 3609550340090789586
+    second: Testing out sprites for fun 2_72
+  - first:
+      213: -2996331101852199610
+    second: Testing out sprites for fun 2_73
+  - first:
+      213: -2429753648886695352
+    second: Testing out sprites for fun 2_74
+  - first:
+      213: -512348405831136940
+    second: Testing out sprites for fun 2_75
+  - first:
+      213: 1664004008542869334
+    second: Testing out sprites for fun 2_76
+  - first:
+      213: -6388802474671044922
+    second: Testing out sprites for fun 2_77
+  - first:
+      213: 8906443098486277702
+    second: Testing out sprites for fun 2_78
+  - first:
+      213: 7709852678675052641
+    second: Testing out sprites for fun 2_79
+  - first:
+      213: 2772579204940433293
+    second: Testing out sprites for fun 2_80
+  - first:
+      213: -630034894515726930
+    second: Testing out sprites for fun 2_81
+  - first:
+      213: -2714014709800198843
+    second: Testing out sprites for fun 2_82
+  - first:
+      213: -1661886400648348570
+    second: Testing out sprites for fun 2_83
+  - first:
+      213: -5541129021820375448
+    second: Testing out sprites for fun 2_84
+  - first:
+      213: -626680035532740555
+    second: Testing out sprites for fun 2_85
+  - first:
+      213: -3510755296821179461
+    second: Testing out sprites for fun 2_86
+  - first:
+      213: 2433694517672075922
+    second: Testing out sprites for fun 2_87
+  - first:
+      213: -147140474215161719
+    second: Testing out sprites for fun 2_88
+  - first:
+      213: 3679101415792659370
+    second: Testing out sprites for fun 2_89
+  - first:
+      213: -4175231275405844531
+    second: Testing out sprites for fun 2_90
+  - first:
+      213: -654759050065054067
+    second: Testing out sprites for fun 2_91
+  - first:
+      213: 6665495789567965290
+    second: Testing out sprites for fun 2_92
+  - first:
+      213: -3617765429674450184
+    second: Testing out sprites for fun 2_93
+  - first:
+      213: 721235590445678064
+    second: Testing out sprites for fun 2_94
+  - first:
+      213: 3887064100531652464
+    second: Testing out sprites for fun 2_95
+  - first:
+      213: 6559938042805086748
+    second: Testing out sprites for fun 2_96
+  - first:
+      213: 4750806212302221578
+    second: Testing out sprites for fun 2_97
+  - first:
+      213: 6074419242267560825
+    second: Testing out sprites for fun 2_98
+  - first:
+      213: -3264811660936541936
+    second: Testing out sprites for fun 2_99
+  - first:
+      213: -6824627478927023934
+    second: Testing out sprites for fun 2_100
+  - first:
+      213: -5259544313179771316
+    second: Testing out sprites for fun 2_101
+  - first:
+      213: 1884593419200477592
+    second: Testing out sprites for fun 2_102
+  - first:
+      213: -1384140209948444119
+    second: Testing out sprites for fun 2_103
+  - first:
+      213: -8696893891537875733
+    second: Testing out sprites for fun 2_104
+  - first:
+      213: 6225059489452852929
+    second: Testing out sprites for fun 2_105
+  - first:
+      213: 6347848533282811154
+    second: Testing out sprites for fun 2_106
+  - first:
+      213: -4650157510422398707
+    second: Testing out sprites for fun 2_107
+  - first:
+      213: -1873200200184646207
+    second: Testing out sprites for fun 2_108
+  - first:
+      213: -2719067902404841582
+    second: Testing out sprites for fun 2_109
+  - first:
+      213: 6551230789856791387
+    second: Testing out sprites for fun 2_110
+  - first:
+      213: -8270631282003608787
+    second: Testing out sprites for fun 2_111
+  - first:
+      213: -6726055005809197861
+    second: Testing out sprites for fun 2_112
+  - first:
+      213: 1139423051410452949
+    second: Testing out sprites for fun 2_113
+  - first:
+      213: -6331065449400745701
+    second: Testing out sprites for fun 2_114
+  - first:
+      213: 4393425405238304192
+    second: Testing out sprites for fun 2_115
+  - first:
+      213: 2852917149578300192
+    second: Testing out sprites for fun 2_116
+  - first:
+      213: -2905737963060320595
+    second: Testing out sprites for fun 2_117
+  - first:
+      213: -7850019846062837161
+    second: Testing out sprites for fun 2_118
+  - first:
+      213: -7010174437080146969
+    second: Testing out sprites for fun 2_119
+  - first:
+      213: -3053985012041745709
+    second: Testing out sprites for fun 2_120
+  - first:
+      213: 1718592199374569071
+    second: Testing out sprites for fun 2_121
+  - first:
+      213: -7253336595821645602
+    second: Testing out sprites for fun 2_122
+  - first:
+      213: 3270185583122417648
+    second: Testing out sprites for fun 2_123
+  - first:
+      213: -134421044048893838
+    second: Testing out sprites for fun 2_124
+  - first:
+      213: -8856089064241444532
+    second: Testing out sprites for fun 2_125
+  - first:
+      213: -5227517017016586892
+    second: Testing out sprites for fun 2_126
+  - first:
+      213: 2105326722714914589
+    second: Testing out sprites for fun 2_127
+  - first:
+      213: -5339470692066098118
+    second: Testing out sprites for fun 2_128
+  - first:
+      213: -4176966707335568803
+    second: Testing out sprites for fun 2_129
+  - first:
+      213: -5626499617004861683
+    second: Testing out sprites for fun 2_130
+  - first:
+      213: -6684322504441714852
+    second: Testing out sprites for fun 2_131
+  - first:
+      213: -2674123149515312254
+    second: Testing out sprites for fun 2_132
+  - first:
+      213: 1961400030730074978
+    second: Testing out sprites for fun 2_133
+  - first:
+      213: 8219430891186009822
+    second: Testing out sprites for fun 2_134
+  - first:
+      213: 7385677389899450883
+    second: Testing out sprites for fun 2_135
+  - first:
+      213: -4704940112372305286
+    second: Testing out sprites for fun 2_136
+  - first:
+      213: -8368096808589403438
+    second: Testing out sprites for fun 2_137
+  - first:
+      213: 1862357263643820897
+    second: Testing out sprites for fun 2_138
+  - first:
+      213: 1835267988419194169
+    second: Testing out sprites for fun 2_139
+  - first:
+      213: 8307563320805252471
+    second: Testing out sprites for fun 2_140
+  - first:
+      213: 5792544227771270146
+    second: Testing out sprites for fun 2_141
+  - first:
+      213: 8114354866694940872
+    second: Testing out sprites for fun 2_142
+  - first:
+      213: -6876722306823369539
+    second: Testing out sprites for fun 2_143
+  - first:
+      213: 3405643837959814498
+    second: Testing out sprites for fun 2_144
+  - first:
+      213: 4350865766881881765
+    second: Testing out sprites for fun 2_145
+  - first:
+      213: -6345253030752696209
+    second: Testing out sprites for fun 2_146
+  - first:
+      213: 8618035228657123959
+    second: Testing out sprites for fun 2_147
+  - first:
+      213: 781173013026138742
+    second: Testing out sprites for fun 2_148
+  - first:
+      213: 1244043912214940865
+    second: Testing out sprites for fun 2_149
+  - first:
+      213: -7829514269024678103
+    second: Testing out sprites for fun 2_150
+  - first:
+      213: -3113281541961734199
+    second: Testing out sprites for fun 2_151
+  - first:
+      213: -4866470062781044258
+    second: Testing out sprites for fun 2_152
+  - first:
+      213: -8831301976019402146
+    second: Testing out sprites for fun 2_153
+  - first:
+      213: -1944695953462627022
+    second: Testing out sprites for fun 2_154
+  - first:
+      213: -3146729935793894611
+    second: Testing out sprites for fun 2_155
+  - first:
+      213: 6253805671355375320
+    second: Testing out sprites for fun 2_156
+  - first:
+      213: -7627635701671090163
+    second: Testing out sprites for fun 2_157
+  - first:
+      213: -3004332166313079914
+    second: Testing out sprites for fun 2_158
+  - first:
+      213: 1124912882066742341
+    second: Testing out sprites for fun 2_159
+  - first:
+      213: 3243052457320355179
+    second: Testing out sprites for fun 2_160
+  - first:
+      213: 4208655938144334208
+    second: Testing out sprites for fun 2_161
+  - first:
+      213: -6455875861076079880
+    second: Testing out sprites for fun 2_162
+  - first:
+      213: -5013276567912475430
+    second: Testing out sprites for fun 2_163
+  - first:
+      213: 123640029997107688
+    second: Testing out sprites for fun 2_164
+  - first:
+      213: -7518133760384104298
+    second: Testing out sprites for fun 2_165
+  - first:
+      213: -3784100739709260286
+    second: Testing out sprites for fun 2_166
+  - first:
+      213: 4570521519043305401
+    second: Testing out sprites for fun 2_167
+  - first:
+      213: -6588210187988602527
+    second: Testing out sprites for fun 2_168
+  - first:
+      213: -6023091128538492740
+    second: Testing out sprites for fun 2_169
+  - first:
+      213: 3510030998475387562
+    second: Testing out sprites for fun 2_170
+  - first:
+      213: -5139315385474432718
+    second: Testing out sprites for fun 2_171
+  - first:
+      213: -7854458212928119965
+    second: Testing out sprites for fun 2_172
+  - first:
+      213: 424608247405638830
+    second: Testing out sprites for fun 2_173
+  - first:
+      213: 5425203049817925335
+    second: Testing out sprites for fun 2_174
+  - first:
+      213: 3384814672075767467
+    second: Testing out sprites for fun 2_17
+  - first:
+      213: 3452946286067578383
+    second: Testing out sprites for fun 2_18
+  - first:
+      213: -1038645646533279742
+    second: Testing out sprites for fun 2_19
+  - first:
+      213: 2802866324195860631
+    second: Testing out sprites for fun 2_20
+  - first:
+      213: -458227254955658673
+    second: Testing out sprites for fun 2_21
+  - first:
+      213: 960223309113816922
+    second: Testing out sprites for fun 2_22
+  - first:
+      213: 5538607570075614264
+    second: Testing out sprites for fun 2_23
+  - first:
+      213: -4171514709509353429
+    second: Testing out sprites for fun 2_24
+  - first:
+      213: -1615302640520480754
+    second: Testing out sprites for fun 2_25
+  - first:
+      213: 8585306588555434350
+    second: Testing out sprites for fun 2_26
+  - first:
+      213: -5584798343178615684
+    second: Testing out sprites for fun 2_27
+  - first:
+      213: 2644222176473125595
+    second: Testing out sprites for fun 2_28
+  - first:
+      213: 1105826614541853031
+    second: Testing out sprites for fun 2_29
+  - first:
+      213: -6110468999824990425
+    second: Testing out sprites for fun 2_30
+  - first:
+      213: 5927520584507390105
+    second: Testing out sprites for fun 2_31
+  - first:
+      213: -7491846655395803841
+    second: Testing out sprites for fun 2_32
+  - first:
+      213: -4222683388939171898
+    second: Testing out sprites for fun 2_33
+  - first:
+      213: 6604975387706690884
+    second: Testing out sprites for fun 2_34
+  - first:
+      213: 4904947383368663368
+    second: Testing out sprites for fun 2_35
+  - first:
+      213: 2561759618866776681
+    second: Testing out sprites for fun 2_36
+  - first:
+      213: 6027916903582771258
+    second: Testing out sprites for fun 2_37
+  - first:
+      213: -424124225992657191
+    second: Testing out sprites for fun 2_38
+  - first:
+      213: -7338139798962075714
+    second: Testing out sprites for fun 2_39
+  - first:
+      213: 2313113756685643655
+    second: Testing out sprites for fun 2_40
+  - first:
+      213: 4770601073833450683
+    second: Testing out sprites for fun 2_41
+  - first:
+      213: 121548002172143554
+    second: Testing out sprites for fun 2_42
+  - first:
+      213: -3672953411779598045
+    second: Testing out sprites for fun 2_43
+  - first:
+      213: 8060874505972432765
+    second: Testing out sprites for fun 2_44
+  - first:
+      213: 6511427895507705774
+    second: Testing out sprites for fun 2_45
+  - first:
+      213: -3907048414627967820
+    second: Testing out sprites for fun 2_46
+  - first:
+      213: -485612404331114626
+    second: Testing out sprites for fun 2_47
+  - first:
+      213: -1164742073927943702
+    second: Testing out sprites for fun 2_48
+  - first:
+      213: 1639207290173596609
+    second: Testing out sprites for fun 2_49
+  - first:
+      213: 1910347585720308710
+    second: Testing out sprites for fun 2_50
+  - first:
+      213: 8784217707186265586
+    second: Testing out sprites for fun 2_51
+  - first:
+      213: -9148831914308997827
+    second: Testing out sprites for fun 2_52
+  - first:
+      213: 2407898037060231877
+    second: Testing out sprites for fun 2_53
+  - first:
+      213: 2588032024735680934
+    second: Testing out sprites for fun 2_54
+  - first:
+      213: 640474695607042525
+    second: Testing out sprites for fun 2_55
+  - first:
+      213: -8793299604167827577
+    second: Testing out sprites for fun 2_56
+  - first:
+      213: 8895579763468646244
+    second: Testing out sprites for fun 2_57
+  - first:
+      213: 2669781259166831950
+    second: Testing out sprites for fun 2_58
+  - first:
+      213: -7351041241774270889
+    second: Testing out sprites for fun 2_59
+  - first:
+      213: -8028182159429124356
+    second: Testing out sprites for fun 2_60
+  - first:
+      213: 2978201931262828587
+    second: Testing out sprites for fun 2_61
+  - first:
+      213: 2619190917006523038
+    second: Testing out sprites for fun 2_62
+  - first:
+      213: -5706859583588096087
+    second: Testing out sprites for fun 2_63
+  - first:
+      213: 4764023780411049110
+    second: Testing out sprites for fun 2_64
+  - first:
+      213: 3146498672811140861
+    second: Testing out sprites for fun 2_65
+  - first:
+      213: -846571119388195434
+    second: Testing out sprites for fun 2_66
+  - first:
+      213: -4511174547299481729
+    second: Testing out sprites for fun 2_67
+  - first:
+      213: -3437702110963948987
+    second: Testing out sprites for fun 2_68
+  - first:
+      213: -7414004148201658928
+    second: Testing out sprites for fun 2_69
+  - first:
+      213: -6816562836014167602
+    second: Testing out sprites for fun 2_70
+  - first:
+      213: 6207713555272352700
+    second: Testing out sprites for fun 2_71
+  - first:
+      213: 1629056455633040762
+    second: Testing out sprites for fun 2_72
+  - first:
+      213: 4922685406888107115
+    second: Testing out sprites for fun 2_73
+  - first:
+      213: -414489014800149574
+    second: Testing out sprites for fun 2_74
+  - first:
+      213: 5635613698770500286
+    second: Testing out sprites for fun 2_75
+  - first:
+      213: 6721043835529802034
+    second: Testing out sprites for fun 2_76
+  - first:
+      213: -1651557399929551093
+    second: Testing out sprites for fun 2_77
+  - first:
+      213: -1013147529013364048
+    second: Testing out sprites for fun 2_78
+  - first:
+      213: 3249709501287287778
+    second: Testing out sprites for fun 2_79
+  - first:
+      213: -5893037774672841046
+    second: Testing out sprites for fun 2_80
+  - first:
+      213: 747396433914352475
+    second: Testing out sprites for fun 2_81
+  - first:
+      213: -5091416109344870801
+    second: Testing out sprites for fun 2_82
+  - first:
+      213: 7686116531829409884
+    second: Testing out sprites for fun 2_83
+  - first:
+      213: 8739344502363974970
+    second: Testing out sprites for fun 2_84
+  - first:
+      213: 2486512260400631665
+    second: Testing out sprites for fun 2_85
+  - first:
+      213: -7961032167279013229
+    second: Testing out sprites for fun 2_86
+  - first:
+      213: -8429982114075886222
+    second: Testing out sprites for fun 2_87
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e70006e73e0a67d0800000000000000
+      internalID: -2924509374778963995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d860777c34af330800000000000000
+      internalID: 3745380564086459657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70a25431a83dfdf0800000000000000
+      internalID: -144897347987267457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dba69058c9d56550800000000000000
+      internalID: 6153563920240389074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bdc95181f832a10800000000000000
+      internalID: 1883506402775587734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9119546e4767c80800000000000000
+      internalID: -8325338328789345862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05817c6bbc38a6b50800000000000000
+      internalID: 6587222315950872656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b34f64d352ff4580800000000000000
+      internalID: -8840581101644725320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da812c636aafb6f0800000000000000
+      internalID: -666626875834922280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8af5638fc19efb0800000000000000
+      internalID: -4618128090502027101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44208dc52232f76f0800000000000000
+      internalID: -684789987843505596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bf50a8605c83a00800000000000000
+      internalID: 736555170951199619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4549700e78bf260800000000000000
+      internalID: 7132443831140897989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bb6c2ee05424b70800000000000000
+      internalID: 8881737345364573005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_14
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44cd853428e01700800000000000000
+      internalID: 509162000107816010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d2473a070f97360800000000000000
+      internalID: 7168024648506158404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c443da6431413c2a0800000000000000
+      internalID: -6718504146083957684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae3b9fb20749fe20800000000000000
+      internalID: 3384814672075767467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_18
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06ff894a545bef20800000000000000
+      internalID: 3452946286067578383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200c0e6994df591f0800000000000000
+      internalID: -1038645646533279742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_20
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79069965218c5e620800000000000000
+      internalID: 2802866324195860631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_21
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4237f94dbc04a9f0800000000000000
+      internalID: -458227254955658673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5777cc1306635d00800000000000000
+      internalID: 960223309113816922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_23
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c75ac7d361ddc40800000000000000
+      internalID: 5538607570075614264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_24
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20d06c297dcb16c0800000000000000
+      internalID: -4171514709509353429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08b6038eca4599e0800000000000000
+      internalID: -1615302640520480754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69daaafad2252770800000000000000
+      internalID: 8585306588555434350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7406a41f7fce72b0800000000000000
+      internalID: -5584798343178615684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd214ef4f0a22b420800000000000000
+      internalID: 2644222176473125595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_29
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761a0fe627fa85f00800000000000000
+      internalID: 1105826614541853031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_30
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f156eb1d0433ba0800000000000000
+      internalID: -6110468999824990425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_31
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998f066f098c24250800000000000000
+      internalID: 5927520584507390105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_32
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d4f61192d970890800000000000000
+      internalID: -7491846655395803841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7865b94d30665c0800000000000000
+      internalID: -4222683388939171898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d8476de1699ab50800000000000000
+      internalID: 6604975387706690884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841cbab58afd11440800000000000000
+      internalID: 4904947383368663368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a8e72fcc23d8320800000000000000
+      internalID: 2561759618866776681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38af9d8c7677a350800000000000000
+      internalID: 6027916903582771258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_38
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6f11973453d1af0800000000000000
+      internalID: -424124225992657191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb785b26bb0b92a90800000000000000
+      internalID: -7338139798962075714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_40
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f2150d4b4d91020800000000000000
+      internalID: 2313113756685643655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_41
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc90f2a664943240800000000000000
+      internalID: 4770601073833450683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c701a49343dfa100800000000000000
+      internalID: 121548002172143554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_43
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3296156055c070dc0800000000000000
+      internalID: -3672953411779598045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_44
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f3d73a7aafddf60800000000000000
+      internalID: 8060874505972432765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_45
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf5e440c2d3d5a50800000000000000
+      internalID: 6511427895507705774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_46
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcc8d5da2067c9c0800000000000000
+      internalID: -3907048414627967820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f02555712c249f0800000000000000
+      internalID: -485612404331114626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_48
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9b29c314106dfe0800000000000000
+      internalID: -1164742073927943702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_49
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c327047852afb610800000000000000
+      internalID: 1639207290173596609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3526cf10be28a10800000000000000
+      internalID: 1910347585720308710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd9882c67fc7e970800000000000000
+      internalID: 8784217707186265586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dead5b8d1d80180800000000000000
+      internalID: -9148831914308997827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2e552d1829a6120800000000000000
+      internalID: 2407898037060231877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a984bd1a698ae320800000000000000
+      internalID: 2588032024735680934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1c84f975c63e800800000000000000
+      internalID: 640474695607042525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_56
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f5ef1599ce7f580800000000000000
+      internalID: -8793299604167827577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_57
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467b3b00aa2737b70800000000000000
+      internalID: 8895579763468646244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4552acf8e7fc0520800000000000000
+      internalID: 2669781259166831950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_59
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7565cc620fadbf990800000000000000
+      internalID: -7351041241774270889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_60
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe39137cda269090800000000000000
+      internalID: -8028182159429124356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_61
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20ad4690e2b45920800000000000000
+      internalID: 2978201931262828587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_62
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a7a1f034c395420800000000000000
+      internalID: 2619190917006523038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_63
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7a239e1792dc0b0800000000000000
+      internalID: -5706859583588096087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_64
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6940aec23663d1240800000000000000
+      internalID: 4764023780411049110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6652f3fdb9aab20800000000000000
+      internalID: 3146498672811140861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69503cf5d006044f0800000000000000
+      internalID: -846571119388195434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f774e6486a61561c0800000000000000
+      internalID: -4511174547299481729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5422260d424da40d0800000000000000
+      internalID: -3437702110963948987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5ea2f128a2c1990800000000000000
+      internalID: -7414004148201658928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_70
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec90f326734b661a0800000000000000
+      internalID: -6816562836014167602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_71
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3c261b69a362650800000000000000
+      internalID: 6207713555272352700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_72
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75701d17329b9610800000000000000
+      internalID: 1629056455633040762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_73
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c909acb44e05440800000000000000
+      internalID: 4922685406888107115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_74
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab31985ef607f3af0800000000000000
+      internalID: -414489014800149574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba7a8edcc8b53e40800000000000000
+      internalID: 5635613698770500286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_76
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231359042c1f54d50800000000000000
+      internalID: 6721043835529802034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_77
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07080b8b4d7419e0800000000000000
+      internalID: -1651557399929551093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baf714b0b390f1f0800000000000000
+      internalID: -1013147529013364048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_79
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebc07fd299491d20800000000000000
+      internalID: 3249709501287287778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_80
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6baa8dd59b73ea0800000000000000
+      internalID: -5893037774672841046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_81
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53dbd5c8194f5a00800000000000000
+      internalID: 747396433914352475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_82
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e2cc62608a759b0800000000000000
+      internalID: -5091416109344870801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5803fd43429aaa60800000000000000
+      internalID: 7686116531829409884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dea299583684970800000000000000
+      internalID: 8739344502363974970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_85
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f45da0abdd18220800000000000000
+      internalID: 2486512260400631665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_86
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39250e75c6bb48190800000000000000
+      internalID: -7961032167279013229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Testing out sprites for fun 2_87
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d3c936eefa20b80800000000000000
+      internalID: -8429982114075886222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

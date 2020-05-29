@@ -19,6 +19,11 @@ Duties of the project manager included:
 
 ### Description
 
+- Recursive descent parser based on a LL(1) grammar
+- Displays step-by-step output of all phases of compilation as well as an abstract and
+concrete syntax tree
+- Outputs machine code understood by operating systems
+
 ## Database Project
 
 ### Description

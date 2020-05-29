@@ -15,7 +15,6 @@ Duties of the project manager included:
 - Used agile development method to keep team on track
 - Drafted user requirements and use cases
 
-
 ## Compiler
 
 ### Description
@@ -36,6 +35,10 @@ concrete syntax tree
 
 ### Description
 
+- Used Windowbuilder on Eclipse to create a more user friendly form for the salvation army
+
 ## Java Text-game
 
 ### Description
+
+- First attempt at developing a game, java terminal program based on early text-based adventure games

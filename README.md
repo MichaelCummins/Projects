@@ -12,6 +12,7 @@ Duties of the project manager included:
 - Delegating responsibiles to developers
 - Tested and developed software
 - Created project plan timeline
+- Used agile development method to keep team on track
 - Drafted user requirements and use cases
 
 
@@ -27,6 +28,9 @@ concrete syntax tree
 ## Database Project
 
 ### Description
+
+- mySQL database based on the company Blizzard Entertainment and serves to track elements of games they develop
+- Business rules created to mimic a professional setting of what may be asked when creating a database from the ground up
 
 ## Systems_Design
 
